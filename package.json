@@ -23,7 +23,7 @@
     "node": ">= 0.10.0"
   },
   "author": {
-    "name": "Jack Matthews"
+    "name": "Kenneth Larsen"
   },
   "license": "MIT",
   "devDependencies": {
