@@ -37,7 +37,7 @@ export default Component.extend({
   async : false, //@public
   datasetName : '', //@public
   allowFreeInput: false, //@public
-  autoData: 'test', //@public
+  autoData: '', //@public
 
   //HtmlBars Templates
   suggestionTemplate,  //@public
